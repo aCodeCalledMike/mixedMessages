@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   //98 random adjective this is primarily for testing and may or may not be used in the final content .
 masterRandomArr = ['brown', 'bored', 'testy', 'squealing', 'historical', 'befitting', 'busy', 'creepy',
  'adamant', 'green', 'incompetent', 'elastic', 'healthy', 'simple', 'jazzy',
@@ -94,3 +95,6 @@ console.log(randNumNames());
   */
 
  
+=======
+
+>>>>>>> 6878642b55bfe4a1a2aff78ce23bddcbb9738e3e
